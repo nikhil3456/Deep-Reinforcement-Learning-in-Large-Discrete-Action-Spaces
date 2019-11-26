@@ -13,13 +13,12 @@ pip install -r requirements.txt
 ## Demonstration of Model
 
 Demonstration video: 
+
 ![cartpole_demo](./cartpole_demo.gif)
 
-Results for `k = 1` (K is the number of nearest neighbours)
-![reward_k_1.png](./reward_vs_steps_k1.png)
-
-Results for `k = 10` (K is the number of nearest neighbours)
-![reward_k_1.png](./reward_vs_steps_k10.png)
+ Results for `k = 1` (K is the number of nearest neighbours)            | Results for `k = 10` (K is the number of nearest neighbours)
+:-------------------------:|:-------------------------:
+![reward_k_1.png](./reward_vs_steps_k1.png)  |  ![reward_k_1.png](./reward_vs_steps_k10.png)
 
 
 ## Train the agent
@@ -78,3 +77,8 @@ If you are interested in the work and want to cite it, please acknowledge the fo
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+
+## Collaborators
+
+1. [Shashank Srikanth](https://github.com/talsperre)
+2. [Nikhil Bansal](https://github.com/nikhil3456)
